@@ -3,6 +3,7 @@ Included Topics - User Registeration - User Login - User Logout - User Roles
 General Flow - Use case diagram
 Research Status code further
 https://www.npmjs.com/package/http-status-codes
+https://pandaquests.medium.com/advanced-techniques-for-secure-authentication-and-authorization-in-node-js-applications-446e55cd18d
 
 - User Registeration
   - we receive name, email, pw, etc from client be it front-end or postman
