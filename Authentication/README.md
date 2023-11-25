@@ -1,5 +1,5 @@
 This README.md is about achieving the perfect authentication and authorization
-Included Topics - User Registeration - User Login - User Logout - User Roles
+Included Topics - User Registeration - User Login - User Logout - User Roles - User Auth MW
 General Flow - Use case diagram
 Research Status code further
 https://www.npmjs.com/package/http-status-codes
@@ -27,6 +27,19 @@ https://pandaquests.medium.com/advanced-techniques-for-secure-authentication-and
         - access token
         - refresh token
         - cookie
+
+* User Authentication middleware
+
+  - Intercept user request
+  - check headers for token
+  - if not included or doesn't start with "Bearer "
+    - throw unauth error
+  - if included, verify the token using jwt
+    - if not verifiable, unauth error
+    - if so,
+      - attach user to req body with or without find it by id through db
+      - call next
+  - app.use(/api/v1/jobs, authMW, jobsRouter);
 
 * User logout
   - If cookies don't contain cookie?
