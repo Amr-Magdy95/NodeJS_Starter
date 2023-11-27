@@ -1,3 +1,7 @@
+## Mongoose Basic Queries
+
+```js
+
 const Product = require("../models/Product");
 
 exports.getAllProducts = async (req, res) => {
@@ -55,3 +59,4 @@ result.skip(skip).limit(limit);
 const products = await result;
 res.status(200).json({ nbHits: products.length, products });
 };
+```

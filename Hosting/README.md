@@ -1,5 +1,7 @@
-- https://adaptable.io/ (preferred option)
-- https://fly.io/
-- https://render.com/
-- https://railway.app/
--
+## Hosting
+
+- ** Preferred Option **
+  - [Adaptable](https://adaptable.io/ "Preferred Option")
+- [Render](https://render.com/)
+- [Fly IO](https://fly.io/)
+- [Railway App](https://railway.app/)
