@@ -1,4 +1,4 @@
-## Documentation
+# Documentation
 
 <div>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=S8kmHtQeflo
