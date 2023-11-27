@@ -11,3 +11,4 @@
 
 - [Swagger for Express on NPM](https://www.npmjs.com/package/swagger-ui-express)
 - [Blog Post on Swagger with Express](https://blog.logrocket.com/documenting-express-js-api-swagger/)
+- [SwaggerUI and SwaggerJsDoc Tutorial](https://dev.to/kabartolo/how-to-document-an-express-api-with-swagger-ui-and-jsdoc-50do)
