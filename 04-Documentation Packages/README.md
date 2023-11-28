@@ -7,8 +7,11 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=apouPYPh_as
       " target="_blank"><img src="http://img.youtube.com/vi/apouPYPh_as/0.jpg" 
       alt="IMAGE ALT TEXT HERE" width="100" height="100" border="5" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=EnMQm365t_s
+      " target="_blank"><img src="http://img.youtube.com/vi/EnMQm365t_s/0.jpg" 
+      alt="IMAGE ALT TEXT HERE" width="100" height="100" border="5" /></a>
+
 </div>
 
 - [Swagger for Express on NPM](https://www.npmjs.com/package/swagger-ui-express)
-
----\*\*\*\*
+- [Swagger Playlist](https://www.youtube.com/playlist?list=PLD5mJXRPUUgsZ5qXWoosfUWw_IQfC79Jy)
