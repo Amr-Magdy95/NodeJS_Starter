@@ -13,5 +13,7 @@
 
 </div>
 
-- [Swagger for Express on NPM](https://www.npmjs.com/package/swagger-ui-express)
+- [Swagger UI for Express on NPM](https://www.npmjs.com/package/swagger-ui-express)
+- [Swagger JSDOC for Express on NPM](https://www.npmjs.com/package/swagger-jsdoc)
+- [Swagger Documentation](https://swagger.io/docs/)
 - [Swagger Playlist](https://www.youtube.com/playlist?list=PLD5mJXRPUUgsZ5qXWoosfUWw_IQfC79Jy)
