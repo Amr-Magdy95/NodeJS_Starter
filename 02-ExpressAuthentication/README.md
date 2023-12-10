@@ -6,6 +6,7 @@ Included Topics
 
 - User Registeration
 - User Login
+- Refresh Token
 - User Logout
 - User Roles
 - User Auth MW
@@ -87,3 +88,11 @@ Included Topics
       - delete refresh token from db
       - clear jwt token from the cookies
       - `res.clearCookie("jwt", {httpOnly: true, maxAge: 24 * 60 * 60 * 1000, sameSite: "None", secure: true})`
+
+### User Roles
+
+> Authentication verifies who someone is
+
+> Authorization verifies what specific resources someone has access to
+
+> Research further
